@@ -6,6 +6,6 @@
 	<identifier value="vnd.basicaddonbuilder.textbuch" />
 	<version value="1.0.9" />
 	<update-download>
-		<src xlink:href="https://uhinkel.github.io/Textbuch/Textbuch.oxt" />
+		<src xlink:href="https://uhinkel.github.io/Textbuch/Textbuch-1.0.9.oxt" />
 	</update-download>
 </description>
