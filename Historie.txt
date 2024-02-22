@@ -1,0 +1,10 @@
+1.0.12
+  Fixes:
+    initiales Format der Vorlage auf Standard gesetzt (vorher war hier ein lila Hintergrund aktiviert)
+    Das Aufrufen des Dialogs zur Bearbeitung der Standardtexte der Cueboxen lieferte eine Fehlermeldung
+  Updates:
+    Automatische Updates wurden optimiert. Nun können alte Versionen auf dem Server erhalten bleiben
+1.0.11
+  Updates:
+    Einrichtung des GitHub-Servers für automatische Updates
+    Einrichtung einer minimalistischen Webseite auf GitHub für die Erstinstallation
