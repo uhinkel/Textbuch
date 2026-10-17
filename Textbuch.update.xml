@@ -4,8 +4,8 @@
  xmlns:l="http://libreoffice.org/extensions/description/2011"
  xmlns:xlink="http://www.w3.org/1999/xlink">
 	<identifier value="vnd.basicaddonbuilder.textbuch" />
-	<version value="1.1.1" />
+	<version value="1.1.2" />
 	<update-download>
-		<src xlink:href="https://uhinkel.github.io/Textbuch/Archiv/Textbuch-1.1.1.oxt" />
+		<src xlink:href="https://uhinkel.github.io/Textbuch/Textbuch-1.1.2.oxt" />
 	</update-download>
 </description>
